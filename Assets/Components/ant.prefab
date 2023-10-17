@@ -183,3 +183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transform: {fileID: 1745174094236142850}
+  leftCollider: {fileID: 0}
+  rightCollider: {fileID: 0}
+  maxSpeed: 3
+  wallDetectSpeed: 270

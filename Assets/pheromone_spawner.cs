@@ -25,4 +25,9 @@ public class pheromone_spawner : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public float getDuration()
+    {
+        return duration;
+    }
 }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9052239147223598568}
   - component: {fileID: 4668060892562058364}
   m_Layer: 0
-  m_Name: food pheromone
+  m_Name: food_pheromone
   m_TagString: food_pheromone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
